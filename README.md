@@ -30,7 +30,7 @@ localizations.lua
 PatchwerkHeal.lua
 ```
 
-Don't ask me to update this addon or the intricacies of its dependency state. I didn't make it. I didn't modify it. I'm just posting it here. Fork it if you want idgaf.
+Don't ask me to update this addon or ask me about the intricacies of its dependency(ies) state. I didn't make it. I didn't modify it. I'm just posting it here. Fork it if you want idgaf.
 
 **Dependencies:**
 
