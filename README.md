@@ -1,6 +1,29 @@
 # patchwerkheal
 Patchwerk Heal addon - Makes Patchwerk healing braindead easy.
 
+A dude named Beemo uploaded this to curseforge. Then he took it down. The description he had on curseforge:
+```Addon for Patchwerk for healers. 
+
+ 
+
+1. Enable the addon (this is disabled by default when you install)
+
+2. Select your assigned heal target.
+
+3. Drag the correct spell to the the box
+
+4. Spam click the button
+
+ 
+
+Not much else to say... This was original made to help Beemo avoid repair bills.
+
+ 
+
+credit to Zeg, 狗月, 一只傻安安 for making the original chinese version. I modified it to work with the US version on classic wow
+```
+
+
 **From the original toc file**
 ```## Interface: 11302
 ## Title: PatchwerkHeal
