@@ -1,4 +1,4 @@
-# patchwerkheal
+# patchwerkheal (wow classic)
 Patchwerk Heal addon - Makes Patchwerk healing braindead easy.
 
 A dude named Beemo uploaded this to curseforge. Then he took it down. The description he had on curseforge:
