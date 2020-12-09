@@ -1,7 +1,7 @@
 # PatchwerkHeal (wow classic)
 **Installation**
 
-Download the binary release .zip file `PatchwerkHeal.zip` from releases:
+Download the binary release .zip file `PatchwerkHeal-1.0.zip` from releases:
 https://github.com/hepkat/PatchwerkHeal/releases
 
 Extract to `_classic_\Interface\Addons\`
