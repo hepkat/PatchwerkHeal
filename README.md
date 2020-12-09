@@ -49,4 +49,4 @@ https://www.curseforge.com/wow/addons/healcommclassic **HealCommClassic** (not n
 
 The addon will show up as a minimap button with a mace/club/morning-star icon. Click it. The frame will show up in the top left of your screen. Right-click drag it to where you want it. Follow from steps 2 through 4 above.
 
-I also use the addon "MoveAnything" from retail to redo the scaling on this addon that doesn't scale correctly with UI scaling.
+I also use the addon "MoveAnything" from retail to redo the scaling on this addon because it doesn't scale correctly with UI scaling.
