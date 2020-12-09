@@ -5,7 +5,7 @@ A dude named Beemo uploaded this to curseforge. Then he took it down. The descri
 ```
 Addon for Patchwerk for healers. 
 
-1. Enable the addon (this is disabled by default when you install)
+~~1. Enable the addon (this is disabled by default when you install)~~ Enabled by default now
 2. Select your assigned heal target.
 3. Drag the correct spell to the the box
 4. Spam click the button
