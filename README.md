@@ -32,8 +32,8 @@ PatchwerkHeal.lua
 
 Don't ask me to update this addon or the intricacies of its dependency state. I didn't make it. I didn't modify it. I'm just posting it here. Fork it if you want idgaf.
 
-Dependencies:
+**Dependencies:**
 
-https://www.curseforge.com/wow/addons/ace3 Lib: Ace3 (yes, the retail version works for classic)
-https://www.curseforge.com/wow/addons/deadly-boss-mods/files/all?filter-game-version=1738749986%3A67408 Deadly Boss Mods (Classic)
-https://www.curseforge.com/wow/addons/healcommclassic HealCommClassic (not necessary if you use an addon with HealComm already built into it)
+https://www.curseforge.com/wow/addons/ace3 **Lib: Ace3** (yes, the retail version works for classic)
+https://www.curseforge.com/wow/addons/deadly-boss-mods/files/all?filter-game-version=1738749986%3A67408 **Deadly Boss Mods (Classic)**
+https://www.curseforge.com/wow/addons/healcommclassic **HealCommClassic** (not necessary if you use an addon with HealComm already built into it)
