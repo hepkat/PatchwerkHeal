@@ -8,7 +8,11 @@ Extract to `_classic_\Interface\Addons\`
 
 Patchwerk Heal addon - Makes Patchwerk healing braindead easy.
 
-A dude named Beemo uploaded this to curseforge. Then he took it down. The description he had on curseforge:
+A dude named Beemo uploaded this to curseforge. ~~Then he took it down.~~ The description he had on curseforge:
+
+Edit: He put it back up:
+https://www.curseforge.com/wow/addons/beemo-one-click-win but my description and help info is a bit more thorough.
+
 ```
 Addon for Patchwerk for healers. 
 
