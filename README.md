@@ -1,3 +1,8 @@
+# The original addon author has the addon reposted again:
+# https://www.curseforge.com/wow/addons/beemo-one-click-win
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 # PatchwerkHeal (wow classic)
 **Installation**
 
